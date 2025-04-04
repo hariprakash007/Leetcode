@@ -64,4 +64,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/hariprakash007/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/hariprakash007/Leetcode/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/hariprakash007/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/hariprakash007/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
