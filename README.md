@@ -76,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/hariprakash007/Leetcode/tree/master/0070-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/hariprakash007/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/hariprakash007/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
