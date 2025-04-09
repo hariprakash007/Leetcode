@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/hariprakash007/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/hariprakash007/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/hariprakash007/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/hariprakash007/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3430-count-days-without-meetings](https://github.com/hariprakash007/Leetcode/tree/master/3430-count-days-without-meetings) |
 ## Hash Table
@@ -84,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hariprakash007/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Matrix
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/hariprakash007/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+## Simulation
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/hariprakash007/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
